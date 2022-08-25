@@ -11,14 +11,6 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
-    <PackageReference Include="SQLitePCLRaw.bundle_e_sqlite3" Version="2.1.0" />
     <PackageReference Include="SQLitePCLRaw.bundle_green" Version="2.1.0" />
-    <PackageReference Include="SQLitePCLRaw.core" Version="2.1.0" />
-    <PackageReference Include="SQLitePCLRaw.lib.e_sqlite3" Version="2.1.0" />
-    <PackageReference Include="SQLitePCLRaw.lib.e_sqlite3.android" Version="2.1.0" />
-    <PackageReference Include="SQLitePCLRaw.provider.dynamic_cdecl" Version="2.1.0" />
-    <PackageReference Include="SQLitePCLRaw.provider.e_sqlite3" Version="2.1.0" />
-    <PackageReference Include="SQLitePCLRaw.provider.e_sqlite3.android" Version="1.1.14" />
-    <PackageReference Include="SQLitePCLRaw.provider.sqlite3" Version="2.1.0" />
   </ItemGroup>
 </Project>
